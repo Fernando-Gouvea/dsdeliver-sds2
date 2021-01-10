@@ -1,4 +1,4 @@
-import { checkIsSelected, formatPrice } from "./helpers";
+import { formatPrice } from "./helpers";
 
 type Props={
   amount: number;
