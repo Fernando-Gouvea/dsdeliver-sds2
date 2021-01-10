@@ -1,6 +1,4 @@
 import './styles.css';
-import { ReactComponent as Logo } from './Logo.svg';
-import { ReactComponent as MainImage } from './main.svg';
 import { ReactComponent as YouTubeIcon } from './Youtube.svg';
 import { ReactComponent as InstagramIcon } from './Instagram.svg';
 import { ReactComponent as LinkedinIcon } from './Linkedin.svg';
